@@ -16,4 +16,4 @@ The aim of this project was to find similar players on the basis of goals, assis
 After cleaning the dataset (since a lot of the small leagues do not have all the stats available for the players), we used K-means unsupervised algorithm to find similar player clusters.
 
 
-The clustering plot can be viewed here: https://github.com/rishkhare/soccer_clustering/blob/main/improved_cluster_tsne.png
+The interactive bokeh plot was deployed via Streamlit and can be viewed here: https://rishkhare-soccer-clustering-visual-mzvy84.streamlitapp.com/
