@@ -1,8 +1,0 @@
-name: streamlit
-channels:
-  - conda-forge
-dependencies:
-  - bokeh
-  - python
-  - streamlit
-
