@@ -2,9 +2,9 @@ name: streamlit
 channels:
   - conda-forge
 dependencies:
-  - bokeh=2.4.3=pyhd8ed1ab_3
-  - matplotlib-inline=0.1.5=pyhd8ed1ab_0
-  - numpy=1.23.2=py310h127c7cf_0
-  - python=3.10.5=h71ab1a4_0_cpython
-  - streamlit=1.11.1=pyhd8ed1ab_0
+  - bokeh=2.4.3
+  - matplotlib-inline=0.1.5
+  - numpy=1.23.2
+  - python=3.10.5
+  - streamlit=1.11.1
 
